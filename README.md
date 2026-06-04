@@ -1,6 +1,6 @@
 # 🛒 Blinkit Sales & Performance Dashboard – Power BI  
 
-## 📌 Project Overview  
+## 📌 Project Overview   
 This project presents an **end-to-end analysis of Blinkit's sales performance** using **Excel and Power BI**.  
 The purpose of the project was to turn raw transactional data into **actionable insights** for decision-makers.  
 

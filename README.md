@@ -148,6 +148,6 @@ This project proves that even with a single, well-structured dashboard, it is po
 **Data Analyst**
 
 📧 **kamalnayantiwary73@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
+🔗 [LinkedIn](http://www.linkedin.com/in/kamalnayantiwary)  
 
 ---
